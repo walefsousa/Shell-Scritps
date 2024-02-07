@@ -22,7 +22,7 @@ echo "Programa para atualizar o ubuntu"
         1)
         echo "Atualizando o repositorio"
         sudo apt update
-        echo "repositório atualizado com sucesso"
+        echo "repositório atualizado com sucesso" 
         ;;
 
         2) 
